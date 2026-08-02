@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/deepakgupta090607-creator/DSA/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
