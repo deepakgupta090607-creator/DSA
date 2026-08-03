@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0002-add-two-numbers) |
+| [2235-add-two-integers](https://github.com/deepakgupta090607-creator/DSA/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
