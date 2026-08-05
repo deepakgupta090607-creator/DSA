@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/deepakgupta090607-creator/DSA/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
@@ -26,4 +27,9 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/deepakgupta090607-creator/DSA/tree/master/0006-zigzag-conversion) |
+| [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
