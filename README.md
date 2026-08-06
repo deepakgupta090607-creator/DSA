@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/deepakgupta090607-creator/DSA/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deepakgupta090607-creator/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -20,6 +22,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/deepakgupta090607-creator/DSA/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
@@ -40,4 +43,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/deepakgupta090607-creator/DSA/tree/master/1672-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
