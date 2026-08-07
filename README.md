@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/deepakgupta090607-creator/DSA/tree/master/2235-add-two-integers) |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
