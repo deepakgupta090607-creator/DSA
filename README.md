@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/deepakgupta090607-creator/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/deepakgupta090607-creator/DSA/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deepakgupta090607-creator/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
