@@ -40,11 +40,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepakgupta090607-creator/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/deepakgupta090607-creator/DSA/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
@@ -92,5 +94,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0010-regular-expression-matching) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
