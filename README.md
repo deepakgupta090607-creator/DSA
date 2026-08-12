@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/deepakgupta090607-creator/DSA/tree/master/0012-integer-to-roman) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 ## Linked List
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/deepakgupta090607-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deepakgupta090607-creator/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -48,6 +50,7 @@
 | [0006-zigzag-conversion](https://github.com/deepakgupta090607-creator/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/deepakgupta090607-creator/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/deepakgupta090607-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
