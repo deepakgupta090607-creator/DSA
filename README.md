@@ -57,6 +57,7 @@
 | [0010-regular-expression-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/deepakgupta090607-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
@@ -112,9 +113,15 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
