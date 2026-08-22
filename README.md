@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/deepakgupta090607-creator/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/deepakgupta090607-creator/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepakgupta090607-creator/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/deepakgupta090607-creator/DSA/tree/master/0724-find-pivot-index) |
@@ -105,6 +106,7 @@
 | [0016-3sum-closest](https://github.com/deepakgupta090607-creator/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepakgupta090607-creator/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/deepakgupta090607-creator/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
