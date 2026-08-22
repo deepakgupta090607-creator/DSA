@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/deepakgupta090607-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/deepakgupta090607-creator/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 ## Linked List
@@ -61,6 +62,7 @@
 | [0012-integer-to-roman](https://github.com/deepakgupta090607-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/deepakgupta090607-creator/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deepakgupta090607-creator/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/deepakgupta090607-creator/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
