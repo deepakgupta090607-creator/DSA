@@ -71,6 +71,7 @@
 | [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepakgupta090607-creator/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/deepakgupta090607-creator/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
