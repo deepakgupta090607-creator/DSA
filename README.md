@@ -64,6 +64,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepakgupta090607-creator/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,4 +154,8 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepakgupta090607-creator/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
