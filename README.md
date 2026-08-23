@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/deepakgupta090607-creator/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepakgupta090607-creator/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepakgupta090607-creator/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepakgupta090607-creator/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/deepakgupta090607-creator/DSA/tree/master/0724-find-pivot-index) |
@@ -163,4 +164,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepakgupta090607-creator/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepakgupta090607-creator/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
