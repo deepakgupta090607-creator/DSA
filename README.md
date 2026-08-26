@@ -37,6 +37,7 @@
 | [0036-valid-sudoku](https://github.com/deepakgupta090607-creator/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepakgupta090607-creator/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/deepakgupta090607-creator/DSA/tree/master/0041-first-missing-positive) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 ## Linked List
@@ -78,6 +79,7 @@
 | [0038-count-and-say](https://github.com/deepakgupta090607-creator/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deepakgupta090607-creator/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -96,6 +98,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -187,4 +190,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/deepakgupta090607-creator/DSA/tree/master/0037-sudoku-solver) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
