@@ -54,6 +54,7 @@
 | [0002-add-two-numbers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/deepakgupta090607-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/deepakgupta090607-creator/DSA/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deepakgupta090607-creator/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
@@ -77,6 +78,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepakgupta090607-creator/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/deepakgupta090607-creator/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/deepakgupta090607-creator/DSA/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -87,6 +89,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/deepakgupta090607-creator/DSA/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deepakgupta090607-creator/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
