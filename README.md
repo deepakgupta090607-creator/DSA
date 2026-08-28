@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/deepakgupta090607-creator/DSA/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0045-jump-game-ii) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepakgupta090607-creator/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/deepakgupta090607-creator/DSA/tree/master/0724-find-pivot-index) |
@@ -145,6 +146,7 @@
 | [0022-generate-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepakgupta090607-creator/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0045-jump-game-ii) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
@@ -204,4 +206,5 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
