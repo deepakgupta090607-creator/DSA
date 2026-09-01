@@ -19,6 +19,7 @@
 | [0045-jump-game-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/deepakgupta090607-creator/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/deepakgupta090607-creator/DSA/tree/master/0048-rotate-image) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepakgupta090607-creator/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/deepakgupta090607-creator/DSA/tree/master/0724-find-pivot-index) |
@@ -58,6 +59,7 @@
 | [0012-integer-to-roman](https://github.com/deepakgupta090607-creator/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/deepakgupta090607-creator/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/deepakgupta090607-creator/DSA/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/deepakgupta090607-creator/DSA/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deepakgupta090607-creator/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
@@ -102,6 +104,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepakgupta090607-creator/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepakgupta090607-creator/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/deepakgupta090607-creator/DSA/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/deepakgupta090607-creator/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
