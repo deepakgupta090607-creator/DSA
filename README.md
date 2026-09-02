@@ -20,6 +20,7 @@
 | [0046-permutations](https://github.com/deepakgupta090607-creator/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/deepakgupta090607-creator/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/deepakgupta090607-creator/DSA/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepakgupta090607-creator/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/deepakgupta090607-creator/DSA/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@
 | [0036-valid-sudoku](https://github.com/deepakgupta090607-creator/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepakgupta090607-creator/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/deepakgupta090607-creator/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/deepakgupta090607-creator/DSA/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
@@ -86,6 +88,7 @@
 | [0038-count-and-say](https://github.com/deepakgupta090607-creator/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/deepakgupta090607-creator/DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/deepakgupta090607-creator/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -118,6 +121,7 @@
 | [0016-3sum-closest](https://github.com/deepakgupta090607-creator/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/deepakgupta090607-creator/DSA/tree/master/0049-group-anagrams) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepakgupta090607-creator/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
