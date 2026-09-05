@@ -64,6 +64,7 @@
 | [0043-multiply-strings](https://github.com/deepakgupta090607-creator/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/deepakgupta090607-creator/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/deepakgupta090607-creator/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0060-permutation-sequence) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deepakgupta090607-creator/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
@@ -77,6 +78,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/deepakgupta090607-creator/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/deepakgupta090607-creator/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
