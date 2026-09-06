@@ -55,6 +55,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/deepakgupta090607-creator/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepakgupta090607-creator/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/deepakgupta090607-creator/DSA/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0018-4sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepakgupta090607-creator/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/deepakgupta090607-creator/DSA/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/deepakgupta090607-creator/DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/deepakgupta090607-creator/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/deepakgupta090607-creator/DSA/tree/master/0344-reverse-string) |
