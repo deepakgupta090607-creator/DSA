@@ -22,6 +22,7 @@
 | [0048-rotate-image](https://github.com/deepakgupta090607-creator/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/deepakgupta090607-creator/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/deepakgupta090607-creator/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/deepakgupta090607-creator/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepakgupta090607-creator/DSA/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/deepakgupta090607-creator/DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/deepakgupta090607-creator/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deepakgupta090607-creator/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -116,6 +118,7 @@
 | [0036-valid-sudoku](https://github.com/deepakgupta090607-creator/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepakgupta090607-creator/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/deepakgupta090607-creator/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/deepakgupta090607-creator/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/deepakgupta090607-creator/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting
