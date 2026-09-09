@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/deepakgupta090607-creator/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/deepakgupta090607-creator/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/deepakgupta090607-creator/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/deepakgupta090607-creator/DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepakgupta090607-creator/DSA/tree/master/0485-max-consecutive-ones) |
@@ -171,6 +172,7 @@
 | [0044-wildcard-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/deepakgupta090607-creator/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/deepakgupta090607-creator/DSA/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
@@ -234,4 +236,5 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/deepakgupta090607-creator/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
