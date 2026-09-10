@@ -24,6 +24,7 @@
 | [0053-maximum-subarray](https://github.com/deepakgupta090607-creator/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/deepakgupta090607-creator/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/deepakgupta090607-creator/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/deepakgupta090607-creator/DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0283-move-zeroes](https://github.com/deepakgupta090607-creator/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepakgupta090607-creator/DSA/tree/master/0485-max-consecutive-ones) |
@@ -135,6 +136,7 @@
 | [0018-4sum](https://github.com/deepakgupta090607-creator/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/deepakgupta090607-creator/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/deepakgupta090607-creator/DSA/tree/master/0056-merge-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepakgupta090607-creator/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepakgupta090607-creator/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -237,4 +239,8 @@
 | [0044-wildcard-matching](https://github.com/deepakgupta090607-creator/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/deepakgupta090607-creator/DSA/tree/master/0055-jump-game) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/deepakgupta090607-creator/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
