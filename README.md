@@ -71,6 +71,7 @@
 | [0048-rotate-image](https://github.com/deepakgupta090607-creator/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/deepakgupta090607-creator/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/deepakgupta090607-creator/DSA/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/deepakgupta090607-creator/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deepakgupta090607-creator/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/deepakgupta090607-creator/DSA/tree/master/1512-number-of-good-pairs) |
@@ -176,6 +177,7 @@
 | [0045-jump-game-ii](https://github.com/deepakgupta090607-creator/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/deepakgupta090607-creator/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deepakgupta090607-creator/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/deepakgupta090607-creator/DSA/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/deepakgupta090607-creator/DSA/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepakgupta090607-creator/DSA/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/deepakgupta090607-creator/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
